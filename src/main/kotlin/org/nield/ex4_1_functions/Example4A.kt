@@ -1,4 +1,4 @@
-package org.nield.ex4
+package org.nield.ex4_1_functions
 
 import java.util.concurrent.ThreadLocalRandom
 

@@ -1,4 +1,4 @@
-package org.nield.ex3
+package org.nield.ex3_type_inference
 
 fun main(args: Array<String>) {
 

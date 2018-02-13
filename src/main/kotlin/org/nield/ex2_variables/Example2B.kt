@@ -1,4 +1,4 @@
-package org.nield.ex2
+package org.nield.ex2_variables
 
 
 fun main(args: Array<String>) {

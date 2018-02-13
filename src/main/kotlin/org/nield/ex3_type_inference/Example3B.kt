@@ -1,4 +1,4 @@
-package org.nield.ex3
+package org.nield.ex3_type_inference
 
 import java.math.BigDecimal
 
@@ -8,5 +8,6 @@ fun main(args: Array<String>) {
     println("BALANCE: $balance")
 
     val transactionAmount = BigDecimal.valueOf(56.12)
-    println("NEW BALANCE: ${balance - transactionAmount}")
+    val newBalance = balance - transactionAmount
+    println("NEW BALANCE: $newBalance")
 }
